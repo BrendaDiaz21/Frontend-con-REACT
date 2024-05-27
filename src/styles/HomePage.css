@@ -1,0 +1,21 @@
+.home-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.home-image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+/* styles/HomePage.css */
+.home-page {
+  text-align: center;
+  padding: 20px;
+}
+
+.example-image {
+  width: 650px; /* Ajusta el tamaño de la imagen según sea necesario */
+  height: auto; /* Mantiene la proporción de la imagen */
+  margin-top: 20px; /* Añade un margen superior si es necesario */
+}
